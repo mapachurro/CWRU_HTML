@@ -1,0 +1,57 @@
+
+
+#box {
+    background-color: black;
+    color: white;
+}
+
+#boxx {
+    background-color: tan;
+    height: 500px;
+    padding: 10px;
+    margin: 0;
+}
+
+#name {
+    background-color: tan;
+    margin-left: 100px;
+    width: 70%;
+    float: left;
+
+}
+
+#headshot {
+    float: left;
+    clear: left;
+    margin-left: 100px;
+}
+
+.clearfix:: after {
+    content: "";
+    display: block;
+    clear: both;
+}
+
+h1 {
+    margin: auto;
+    text-align: center;
+}
+
+ul {
+    background-color: tan;
+    float: right;
+    clear: right;
+    margin-right: 100px;
+    width: 30%;
+
+}
+
+#contact {
+        background-color: tan;
+        margin-right: 100px;
+        float: right;
+        width: 30%;
+        padding-left: 50px;
+    
+    }
+
