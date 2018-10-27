@@ -1,0 +1,20 @@
+.thought1 {
+    font-weight: bolder;
+}
+
+.thought2 {
+    color: red;
+}
+
+p {
+    font-family: 'Lucida Sans Regular', sans-serif;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5 {
+    font-family: 'K2D', sans-serif;
+    font-family: 'Chakra Petch', sans-serif;
+}

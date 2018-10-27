@@ -1,0 +1,23 @@
+/**
+ * Google Fonts Demo
+ **/
+
+/* Add in the Google Fonts of your choice */
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6, {
+
+    font-family: 'Notable', sans-serif;
+}
+
+p {
+    font-family: "Black Ops One", "cursive";
+    weight: bolder; 
+    color: peachpuff;
+    background-color: purple;
+    font-size: 50px;
+}
